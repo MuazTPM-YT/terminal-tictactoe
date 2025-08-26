@@ -4,6 +4,9 @@
 I did this because, why not?
 (Mainly cause I wanted to show a friend of mine, how it's done...)
 
+- Was this any useful to society? No.
+- Was this cool? Yes
+
 # Features
 - **Player Vs Player:**
 You can play against your friends (if you have any)
