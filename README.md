@@ -25,5 +25,5 @@ cd terminal-tictactoe
 python3 main.py
 ```
 
-That's all there is to it.
-Thank you for playing the game
+***That's all there is to it.***
+***Thank you for playing the game***
