@@ -1,6 +1,6 @@
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
 # Terminal-Based TicTacToe
+![Python](https://img.shields.io/pypi/pyversions/numpy) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 I did this because, why not?
 (Mainly cause I wanted to show a friend of mine, how it's done... hehehehehhehee)
 
