@@ -24,8 +24,6 @@ git clone https://github.com/MuazTPM-YT/terminal-tictactoe.git
 cd terminal-tictactoe
 python3 main.py
 ```
-```
-```
 
 That's all there is to it.
 Thank you for playing the game
